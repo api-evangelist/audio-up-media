@@ -42,5 +42,8 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Audio Up Media is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Audio Up Media is a Los Angeles based podcast studio, music company and audio entertainment network founded in 2020 by Jared Gutstadt, the founder of Jingle Punks. The company develops and produces scripted and unscripted audio series, original music IP and branded audio campaigns, and adapts that intellectual property into television, film and live formats.
+
+Audio Up is a content studio rather than a software platform. As of 2026-08-06 it publishes no public API, SDK, webhook surface or machine-readable specification: `/openapi.json`, `/swagger.json`, `/api-docs`, `/docs`, `/developers`, `/api`, `/llms.txt` and every probed `/.well-known/` path return 404 on www.audioup.com, and `api.audioup.com`, `developer.audioup.com` and `docs.audioup.com` do not resolve in DNS.
+
+- https://www.audioup.com/

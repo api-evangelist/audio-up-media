@@ -1,0 +1,27 @@
+# Audio Up Media
+
+> Los Angeles based podcast studio, music company and audio entertainment network founded in 2020 by Jared Gutstadt. Audio Up develops scripted and unscripted audio series, original music IP and branded audio campaigns, and adapts that intellectual property into television, film and live formats. It is a content studio, not a software platform.
+
+Audio Up Media publishes **no public API, SDK, webhook surface or machine-readable specification**. This
+profile is maintained by API Evangelist from the company's public marketing site only. Probed on
+2026-08-06: `/openapi.json`, `/swagger.json`, `/api-docs`, `/docs`, `/developers`, `/api`, `/llms.txt` and
+the `/.well-known/` discovery paths all return 404 on www.audioup.com, and `api.`, `developer.` and
+`docs.audioup.com` do not resolve in DNS. Shows are distributed through third-party podcast platforms.
+
+## Company
+- [Audio Up Media](https://www.audioup.com/): Company website (Squarespace).
+- [About](https://www.audioup.com/about): Company background, leadership and investors.
+- [Shows](https://www.audioup.com/shows): Podcast and scripted audio catalog.
+- [Music](https://www.audioup.com/music): Original music IP.
+- [Case studies](https://www.audioup.com/case-study): Branded audio campaign work.
+- [Press](https://www.audioup.com/press): Press coverage and announcements.
+- [Subscribe](https://www.audioup.com/subscribe): Newsletter signup.
+
+## APIs
+None published.
+
+## Artifacts
+- [Domain security](security/audio-up-media-domain-security.yml): Probed TLS/HSTS/DNSSEC/CAA/SPF/DMARC posture for audioup.com.
+
+## Profile
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/audio-up-media/refs/heads/main/apis.yml): APIs.json 0.20 profile for Audio Up Media.
