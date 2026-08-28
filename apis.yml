@@ -10,6 +10,17 @@ description: 'Audio Up Media is a Los Angeles based podcast studio, music compan
   a software platform: it publishes a marketing site and distributes its shows through
   third-party podcast platforms, and does not operate a developer program, public API,
   SDK or machine-readable specification of its own.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://static1.squarespace.com/static/5e58415fbeb4f12253bdd839/t/5e644fc0d9214e538125939b/1583632324497/Social+Preview_Audio_Up.jpg?format=1500w
 url: https://raw.githubusercontent.com/api-evangelist/audio-up-media/refs/heads/main/apis.yml
 x-type: company
