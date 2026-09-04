@@ -21,6 +21,18 @@ deliveryModel:
   - none
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://static1.squarespace.com/static/5e58415fbeb4f12253bdd839/t/5e644fc0d9214e538125939b/1583632324497/Social+Preview_Audio_Up.jpg?format=1500w
 url: https://raw.githubusercontent.com/api-evangelist/audio-up-media/refs/heads/main/apis.yml
 x-type: company
