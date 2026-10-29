@@ -64,8 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Audio Up Media is a Los Angeles based podcast studio, music company and audio entertainment network founded in 2020 by Jared Gutstadt, the founder of Jingle Punks. The company develops and produces scripted and unscripted audio series, original music IP and branded audio campaigns, and adapts that intellectual property into television, film and live formats.
+Audio Up Media is a Los Angeles based podcast studio, music company and audio entertainment network founded in 2020 by Jared Gutstadt, the founder of Jingle Punks. The company develops and produces scripted and unscripted audio series, original music IP and branded audio campaigns, and adapts that intellectual property into television, film and live formats. Its catalog includes scripted titles such as Strawberry Spring, Make It Up As We Go, Where the Bodies Are Buried and Maejor Frequency, alongside branded case-study work for consumer brands. Audio Up is a content studio rather than a software platform: it publishes a marketing site and distributes its shows through third-party podcast platforms, and does not operate a developer program, public API, SDK or machine-readable specification of its own.
 
-Audio Up is a content studio rather than a software platform. As of 2026-08-06 it publishes no public API, SDK, webhook surface or machine-readable specification: `/openapi.json`, `/swagger.json`, `/api-docs`, `/docs`, `/developers`, `/api`, `/llms.txt` and every probed `/.well-known/` path return 404 on www.audioup.com, and `api.audioup.com`, `developer.audioup.com` and `docs.audioup.com` do not resolve in DNS.
+**Areas:** Company · Media · Entertainment · Podcasts · Audio · Music · Content Production · Advertising
 
-- https://www.audioup.com/
+## Audio Up Media on APIs.io
+
+Everything profiled for Audio Up Media is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/audio-up-media/](https://apis.io/providers/audio-up-media/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Audio Up Media Domain Security](https://apis.io/security/audio-up-media/audio-up-media-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.audioup.com/)
+
+## API Evangelist rating
+
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/audio-up-media/](https://apis.io/providers/audio-up-media/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Audio Up Media: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/audio-up-media/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
